@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DriZy
 - 👀 I’m interested in Software 
-- 🌱 I’m currently learning VueJs and working with WordPress
+- 🌱 I’m working with VueJs, ReactJs, NodeJs, TypeScript and  WordPress
 - 💞️ I’m looking to collaborate on WooCommerce
 - 📫 How to reach me tabidrizy@gmail.com
 
